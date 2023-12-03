@@ -1,0 +1,9 @@
+﻿  lab2.cpp
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l2\lab2\lab2\lab2.cpp(96,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  t3.cpp
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l2\lab2\lab2\t3.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l2\lab2\lab2\t3.cpp(73,9): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l2\lab2\lab2\t3.cpp(49): warning C4715: 'ThirdTask::OpenFileForReading': not all control paths return a value
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l2\lab2\lab2\lab2.cpp(42): warning C4715: 'RunProgram::ValidatorForDimensions': not all control paths return a value
+  lab2.vcxproj -> D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l2\lab2\x64\Debug\lab2.exe
